@@ -1,6 +1,5 @@
 <h1>Star Wars Blog</h1>
 
-Overview:
 This is a Star Wars blog project developed with React and Vite. It utilizes the SWAPI API to fetch information about characters, planets, and more in the Star Wars universe.
 
 Features:
@@ -11,13 +10,13 @@ Features:
 Installation:
 
 1. Change to the Project Directory:
-   cd StarWars-Blog/
+   ``` $ cd StarWars-Blog/ ```
 
 2. Install Dependencies:
-   npm install
+   ``` $ npm install ```
 
 3. Launch the Development Environment:
-   npm run dev
+   ``` $ npm run dev ```
 
 ---
 
